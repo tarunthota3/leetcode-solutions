@@ -3,6 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|8 ms|
+|257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./solutions/257.%20Binary%20Tree%20Paths.java)|8 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
 |292|[ Nim Game](https://leetcode.com/problems/nim-game/)|[Java](./solutions/292.%20Nim%20Game.java)|0 ms|
 |380|[ Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](./solutions/380.%20Insert%20Delete%20GetRandom%20O(1).java)|242 ms|
