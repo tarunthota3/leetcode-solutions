@@ -7,6 +7,7 @@
 |17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](./solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java)|0 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./solutions/20.%20Valid%20Parentheses.java)|1 ms|
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./solutions/22.%20Generate%20Parentheses.java)||
+|28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./solutions/28.%20Implement%20strStr().java)|0 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|6 ms|
 |50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./solutions/50.%20Pow(x%2C%20n).java)|0 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|1 ms|
