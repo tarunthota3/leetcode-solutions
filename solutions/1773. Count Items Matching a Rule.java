@@ -3,7 +3,6 @@ class Solution {
         int count = 0;
         
         for(List<String> l : items){
-            System.out.println(l.get(1).equals(ruleValue));
             switch(ruleKey){
                 case "type":
                     if(l.get(0).equals(ruleValue))
@@ -18,7 +17,7 @@ class Solution {
                         count += 1;
                     break;
             }
-        }
+        }
         return count;
     }
 }
