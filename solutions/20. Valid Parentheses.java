@@ -1,20 +1,18 @@
 class Solution {
-    Map<Character, Character> map;
-    
-    public Solution() {
-        map = new HashMap<Character, Character>();
-        map.put(')','(');
-        map.put('}','{');
-        map.put(']','[');
-    }
+    HashMap<Character, Character> hmap = new HashMap<>();
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack();
+        hmap.put(')','(');
+        hmap.put('}','{');
+        hmap.put(']','[');
+        
+        Stack<Character> stack = new Stack<>();
+        
         for(int i = 0; i < s.length(); i++){
             char c = s.charAt(i);
-            if(map.containsKey(c)){
-                char temp = stack.empty() ? '!' : stack.pop();
+            if(hmap.containsKey(c)){
+                char top = stack.empty() ? '@' : stack.pop();
                 
-                if(temp != map.get(c))
+                if(top != hmap.get(c))
                     return false;
             }
             else{
