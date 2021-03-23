@@ -22,6 +22,7 @@
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./solutions/125.%20Valid%20Palindrome.java)|164 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|8 ms|
 |189|[ Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./solutions/189.%20Rotate%20Array.java)|421 ms|
+|227|[ Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./solutions/227.%20Basic%20Calculator%20II.java)|10 ms|
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./solutions/257.%20Binary%20Tree%20Paths.java)|8 ms|
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Java](./solutions/274.%20H-Index.java)|1 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
