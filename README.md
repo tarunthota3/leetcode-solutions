@@ -17,6 +17,7 @@
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Java](./solutions/66.%20Plus%20One.java)|0 ms|
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./solutions/67.%20Add%20Binary.java)|23 ms|
 |88|[ Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./solutions/88.%20Merge%20Sorted%20Array.java)|0 ms|
+|91|[ Decode Ways](https://leetcode.com/problems/decode-ways/)|[Java](./solutions/91.%20Decode%20Ways.java)|0 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.java)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|3 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./solutions/125.%20Valid%20Palindrome.java)|164 ms|
