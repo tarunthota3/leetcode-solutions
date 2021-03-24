@@ -38,4 +38,5 @@
 |1046|[ Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Java](./solutions/1046.%20Last%20Stone%20Weight.java)|2 ms|
 |1299|[ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Java](./solutions/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)|1 ms|
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/1480.%20Running%20Sum%20of%201d%20Array.java)|0 ms|
+|1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](./solutions/1678.%20Goal%20Parser%20Interpretation.java)|0 ms|
 |1773|[ Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Java](./solutions/1773.%20Count%20Items%20Matching%20a%20Rule.java)|4 ms|
