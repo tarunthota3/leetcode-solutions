@@ -10,6 +10,7 @@
 |17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](./solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java)|0 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./solutions/20.%20Valid%20Parentheses.java)|1 ms|
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./solutions/22.%20Generate%20Parentheses.java)||
+|26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|0 ms|
 |27|[ Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./solutions/27.%20Remove%20Element.java)|0 ms|
 |28|[ Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./solutions/28.%20Implement%20strStr().java)|0 ms|
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./solutions/38.%20Count%20and%20Say.java)|1 ms|
