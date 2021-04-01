@@ -31,6 +31,7 @@
 |257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./solutions/257.%20Binary%20Tree%20Paths.java)|8 ms|
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Java](./solutions/274.%20H-Index.java)|1 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
+|287|[ Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./solutions/287.%20Find%20the%20Duplicate%20Number.java)|2 ms|
 |292|[ Nim Game](https://leetcode.com/problems/nim-game/)|[Java](./solutions/292.%20Nim%20Game.java)|0 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|1 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./solutions/350.%20Intersection%20of%20Two%20Arrays%20II.java)|2 ms|
