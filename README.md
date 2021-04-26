@@ -17,6 +17,7 @@
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./solutions/38.%20Count%20and%20Say.java)|1 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./solutions/49.%20Group%20Anagrams.java)|6 ms|
 |50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./solutions/50.%20Pow(x%2C%20n).java)|0 ms|
+|51|[ N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./solutions/51.%20N-Queens.java)|6 ms|
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|1 ms|
 |66|[ Plus One](https://leetcode.com/problems/plus-one/)|[Java](./solutions/66.%20Plus%20One.java)|0 ms|
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./solutions/67.%20Add%20Binary.java)|23 ms|
